@@ -1,0 +1,22 @@
+Union Vs Union all
+  union - provides unique output 
+  union all - allows duplicates
+
+Union all in bigquery 
+  
+  union all is same in bigquey and sql server 
+
+  select col1,col2 from tbl1
+  union all 
+  select col1,col2 from tbl2
+
+union in bigquery 
+
+  Equivalent for union in bigquery is union distinct
+  
+  
+  select col1,col2 from tbl1
+  union distinct  
+  select col1,col2 from tbl2
+  
+  
