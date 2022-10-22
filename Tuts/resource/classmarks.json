@@ -1,0 +1,76 @@
+{
+  "class": {
+    "students": [
+      {
+        "Stu_id": 1,
+        "hobbies": [
+          "singing",
+          "drawing"
+        ],
+        "exams": [
+          {
+            "examname": "exam1",
+            "marks": [
+              {
+                "subject": "maths",
+                "mark": 100
+              },
+              {
+                "subject": "science",
+                "mark": 100
+              }
+            ]
+          },
+          {
+            "examname": "exam2",
+            "marks": [
+              {
+                "subject": "maths",
+                "mark": 100
+              },
+              {
+                "subject": "science",
+                "mark": 100
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Stu_id": 2,
+        "hobbies": [
+          "football",
+          "cricket"
+        ],
+        "exams": [
+          {
+            "examname": "exam1",
+            "marks": [
+              {
+                "subject": "maths",
+                "mark": 200
+              },
+              {
+                "subject": "science",
+                "mark": 200
+              }
+            ]
+          },
+          {
+            "examname": "exam2",
+            "marks": [
+              {
+                "subject": "maths",
+                "mark": 200
+              },
+              {
+                "subject": "science",
+                "mark": 200
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
